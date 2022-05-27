@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878447899759",
+    "project_id": "goodnewstoday-6386e",
+    "storage_bucket": "goodnewstoday-6386e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878447899759:android:a2bc251065075adbc2499a",
+        "android_client_info": {
+          "package_name": "com.dipendra.goodnewstoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878447899759-vrqtnr5cq0q20q40s4695m6dovf1ibe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7UuIaJ2syFNbt2c9-4m1-UN1CQ9l634"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878447899759-vrqtnr5cq0q20q40s4695m6dovf1ibe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
